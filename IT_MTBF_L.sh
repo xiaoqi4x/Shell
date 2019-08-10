@@ -1,6 +1,4 @@
 #!/usr/bin/expect
-#This script is using for add Mac UTT server SSH key, author: chaox.c.liu@intel.com  2018-09-07
-
 if {$argc < 1} {
     #do something
     send_user "usage: $argv0 <hostname>"
